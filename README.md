@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! 👋, I'm Sofya</h1>
-🎇 I’m currently learning *Angular, Java*
+🎇 I’m currently learning Angular, Java
 
 
 <h3 align="left">Languages and Tools:</h3>
