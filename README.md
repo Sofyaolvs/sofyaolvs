@@ -1,6 +1,4 @@
 <h1 align="center">Hello World! 👋, I'm Sofya</h1>
-<h3 align="center">Computer Science Student</h3>
-
 🎇 I’m currently learning **Angular, Java**
 
 
