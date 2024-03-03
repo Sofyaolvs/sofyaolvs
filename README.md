@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋, I'm Sofya</h1>
+<h1 align="center">Hi! 👋, I'm Sofya</h1>
 🎇 I’m currently learning Angular, Java
 
 
