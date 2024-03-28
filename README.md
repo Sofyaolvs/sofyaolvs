@@ -1,5 +1,5 @@
 <h1 align="center">Hi! 👋, I'm Sofya</h1>
-🎇 I’m currently learning React and Java
+🎇 I’m currently learning .NET
 
 
 <h3 align="left">Languages and Tools:</h3>
