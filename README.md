@@ -27,8 +27,6 @@
 
 <br clear="both">
 
-###
-
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sofyaolvs.Sofyaolvs&"  />
 
 ###
