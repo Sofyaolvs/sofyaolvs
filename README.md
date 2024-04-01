@@ -27,8 +27,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sofyaolvs/Sofyaolvs/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Sofyaolvs.Sofyaolvs&"  />
