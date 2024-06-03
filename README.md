@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Sofya!</h2>
+<h2 align="left">Oii!</h2>
 
 ###
 
