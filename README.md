@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://giphy.com/embed/9SVdZvlJYzTdS" align="center" style="width: 100%" />
 </div>  
   
 
@@ -19,7 +18,7 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<tr><td valign="top" width="33%">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -38,7 +37,7 @@
 
 
 
-</td></tr></table>  
+</td></tr>
 
 <br/>  
 
@@ -63,8 +62,6 @@
   
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
