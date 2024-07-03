@@ -4,10 +4,6 @@
 
 ### <div align="center">Hii i'm Sofya🎇</div>  
   
-
-- 🔭 I’m currently working on a skin care site  
-  
-
 - 🌱 I’m currently learning React  
   
 
