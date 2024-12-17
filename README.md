@@ -52,6 +52,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/sofyaolvs/sofyaolvs/output/snake.svg" alt="Snake animation" />
 
 ###
