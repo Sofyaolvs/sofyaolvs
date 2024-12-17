@@ -1,71 +1,57 @@
-<div align="center">
-</div>  
-  
+<h1 align="center">hey 👋</h1>
 
-### <div align="center">Hii i'm Sofya🎇</div>  
-  
-- 🌱 I’m currently learning React  
-  
+###
 
-- ⚡ A curiosity: I like photography 📷  
-  
+<h3 align="left">👩‍💻  About Me</h3>
 
-<br/>  
+###
 
+<p align="left">I'm Sofya, computer science student<br><br>- 📚 I'm currently learning React and Go<br>- ⚡ In my free time I like travel</p>
 
-## My Skill Set  
-<tr><td valign="top" width="33%">
+###
 
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+<div align="left">
+  <a href="https://www.linkedin.com/in/sofyaoliveira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
-</td><td valign="top" width="33%">
+###
 
+<h3 align="left">🛠 Language and tools</h3>
 
+###
 
-</td><td valign="top" width="33%">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+</div>
 
+###
 
-
-</td></tr>
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/Sofyaolvs" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/sofyaoliveira" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://profile-counter.glitch.me/sofyaolvs/count.svg?"  />
+</div>
 
-<br/>  
+###
 
+<img src="https://raw.githubusercontent.com/sofyaolvs/sofyaolvs/output/snake.svg" alt="Snake animation" />
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofyaolvs&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-  
-
-<br/>  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=sofyaolvs&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
+###
