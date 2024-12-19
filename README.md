@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Sofya, computer science student<br><br>- 📚 I'm currently learning React and Go<br>- ⚡ In my free time I like travel</p>
+<p align="left">I'm Sofya, computer science student<br><br>- 📚 I'm currently learning React and TypeScript <br>- ⚡ In my free time I like travel</p>
 
 ###
 
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  /> -->
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
