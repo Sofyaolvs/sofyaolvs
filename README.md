@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Sofya, computer science student<br><br>- 📚 I'm currently learning React and TypeScript <br>- ⚡ In my free time I like travel</p>
+<p align="left">I'm Sofya, computer science student<br><br>- 📚 I'm currently learning React and TypeScript</p>
 
 ###
 
