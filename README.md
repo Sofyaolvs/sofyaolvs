@@ -1,4 +1,3 @@
-@@ -1,56 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sofya</h1>
 <h3 align="center">computer science student</h3>
 
