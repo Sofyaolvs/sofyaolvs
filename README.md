@@ -1,95 +1,12 @@
-<div align="center">
+<h1 align="center">Hi! , I'm Sofya</h1>
+<h3 align="center">FullStack Developer</h3>
 
-# Hi 👋, I'm Sofya Oliveira
+- I’m currently learning **Python and AI agents**
 
-### A passionate developer from [Your Location]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sofyaoliveira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sofyaoliveira" height="30" width="40" /></a>
+</p>
 
-</div>
-
-## 📚 Learning & Knowledge
-
-<div align="left">
-
-- 🌱 I'm currently learning **Python and AI agents **
-
-</div>
-
-## 📞 Contact & Links
-
-<div align="left">
-
-- 📫 How to reach me **sofyaoliveira100@gmail.com**
-- 👨‍💻 All of my projects are available at [https://portfolio-sofya.vercel.app/](https://portfolio-sofya.vercel.app/)
-
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/https://www.linkedin.com/in/sofyaoliveira/)
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Programming Languages
-
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />
-
-### 💻 Frontend Development
-
-<img src="https://cdn.simpleicons.org/vuejs/4FC08D?size=32" alt="Vue.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/webpack/8DD6F9?size=32" alt="Webpack"  />
-
-### 💻 Mobile App Development
-
-<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
-
-### 💻 Backend Development
-
-<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/000000?size=32" alt="Express.js"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nestjs/E0234E?size=32" alt="NestJS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nginx/269539?size=32" alt="Nginx"  />
-
-### 💻 AI/ML
-
-<img src="https://cdn.simpleicons.org/pandas/150458?size=32" alt="Pandas"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/5C3EE8?size=32" alt="OpenCV"  />
-
-### 💻 Database
-
-<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mysql/4479A1?size=32" alt="MySQL"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL"  />
-
-### 💻 Data Visualization
-
-<img src="https://cdn.simpleicons.org/chartdotjs/FF6384?size=32" alt="Chart.js"  />
-
-### 💻 DevOps
-
-<img src="https://cdn.simpleicons.org/docker/2496ED?size=32" alt="Docker"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/microsoftazure/0078D4?size=32" alt="Azure"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/gnu-bash/4EAA25?size=32" alt="Bash"  />
-
-### 💻 Framework
-
-<img src="https://cdn.simpleicons.org/electron/47848F?size=32" alt="Electron"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/flask/000000?size=32" alt="Flask"  />
-
-<img src="https://cdn.simpleicons.org/jest/C21325?size=32" alt="Jest"  />
-
-
-<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />
-
-<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofyaolvs&layout=compact&theme=tokyonight&langs_count=10)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=sofyaolvs&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
