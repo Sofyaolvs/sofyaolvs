@@ -1,18 +1,45 @@
-<!-- Banner animado opcional - remova se preferir mais limpo -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sofya+%F0%9F%91%8B;Full+Stack+Developer;Building+the+future+with+code" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/SofyaOliveira/SofyaOliveira/main/assets/banner.png" alt="Sofya Oliveira" width="100%" />
 </p>
 
+<h1 align="center">Sofya Oliveira</h1>
+<h3 align="center">Full Stack Developer</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SofyaOliveira&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/sofyaoliveira">LinkedIn</a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## Sobre
 
-```yaml
-name: Sofya Oliveira
-role: Full Stack Developer
-focus: Python & AI Agents
-location: 🌍 Remote
+Desenvolvedora Full Stack com foco em construir aplicações completas e escaláveis. Atualmente aprofundando conhecimentos em **Python** e **agentes de IA**.
+
+## Tecnologias
+
+**Linguagens**
+
+JavaScript · TypeScript · Python · Java
+
+**Frontend**
+
+React · React Native · Vue.js · Next.js · Tailwind CSS · Bootstrap
+
+**Backend**
+
+Node.js · Express · NestJS · Flask
+
+**Banco de Dados & Infra**
+
+MongoDB · PostgreSQL · Azure · Nginx · Docker · Linux
+
+**Tools**
+
+Git · Jest · Postman · Figma · Pandas · OpenCV · Chart.js · Electron · Webpack
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SofyaOliveira&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SofyaOliveira&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
