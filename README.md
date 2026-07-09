@@ -1,5 +1,10 @@
-# HI, I'm Sofya Emilly
-🔭  passionate Full Stack developer and IA Engineer enthusiast<br>🌱 I’m currently learning about Computacional Vision and IA Agents
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sofya Emilly
+=====================================================================================================================================
+
+I'm passionate full stack developer and enthusiast AI Engineer enthusiast
+
+* 🖥️  See my portfolio at [Sofya's](http://https://portfolio-sofya.vercel.app/)
+* 🧠  I'm currently learning Automatized teste and Computacional Vision & AI agents
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofyaoliveira100@gmail.com) 
 
