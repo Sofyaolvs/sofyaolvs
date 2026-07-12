@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm passionate full stack developer and enthusiast AI Engineer enthusiast
 
-* 🖥️  See my portfolio at [Sofya's](http://https://portfolio-sofya.vercel.app/)
+* 🖥️  See my portfolio at [Sofya's]([http://https://portfolio-sofya.vercel.app/](https://portfolio-sofya.vercel.app/))
 * 🧠  I'm currently learning Automatized tests and Computacional Vision & AI agents
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofyaoliveira100@gmail.com) 
